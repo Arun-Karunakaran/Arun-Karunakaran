@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arun-Karunakaran
+- 👋 Hi, I’m @Arun Karunakaran
 - 👀 I’m interested in expanding my DevOps and automation skill sets
 - 🌱 I’m currently learning docker and kubernetes
 - 💞️ I’m looking to collaborate on projects which involves automation related tasks
