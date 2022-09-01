@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arun Karunakaran
-- 👀 I’m interested in expanding my DevOps, Automation skill sets
+- 👀 I’m interested in expanding my DevOps-QA, Automation skill sets
 - 🌱 I have experiences working with Jenkins, Automation, bash, python, Ansible, docker
 - 💞️ I’m looking to collaborate on projects which involves automation, infra-automation, CI/CD, DevOps related tasks
 - 📫 Reach me @+919677976097 @akarunakaran.ind@gmail.com @https://www.linkedin.com/in/arun-karunakaran-devops-automation/ @https://arun-karunakaran.medium.com/
